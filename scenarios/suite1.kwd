@@ -1,0 +1,3 @@
+SCENARIO|login|{"description":"login","groups":["SMOKE"],"TC_ID":"197112"}
+comment|["succesd"]|
+END||

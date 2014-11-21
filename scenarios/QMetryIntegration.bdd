@@ -1,0 +1,6 @@
+
+
+SCENARIO: TC1
+META-DATA: {"description":"QMetry Integration test","groups":["SMOKE"],"TC_ID":"197112"}
+
+END

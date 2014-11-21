@@ -1,0 +1,58 @@
+[main] 17:30:59,170 DEBUG [com.infostretch.automation.testng.pro.QAFAnnotationTransformer2] QAFTestNGListener registered!...
+[main] 17:30:59,335 INFO  [com.infostretch.automation.util.PropertyUtil] property [webdriver.ie.driver] value [drivers/IEDriverServer.exe] ignored! It is overriden with System provided value: [IEDriverServer.exe]
+[main] 17:30:59,345 INFO  [com.infostretch.automation.core.ConfigurationManager] ISFW build info: {QAF-Version=2.1, QAF-Revision=4, QAF-Build-Time=30-Oct-2014 10:40:16, QAF-Type=Pro}
+[main] 17:30:59,376 INFO  [com.infostretch.automation.core.ConfigurationManager] Resource dir: F:\Ankit\Project\Minted\workspace\QmetryTestManagementTool\resources. Found property files to load: 2
+[main] 17:30:59,381 INFO  [com.infostretch.automation.util.PropertyUtil] property [webdriver.ie.driver] value [drivers/IEDriverServer.exe] ignored! It is overriden with System provided value: [IEDriverServer.exe]
+[main] 17:30:59,401 INFO  [com.infostretch.automation.core.ConfigurationManager] Resource dir: F:\Ankit\Project\Minted\workspace\QmetryTestManagementTool\resources. Found property files to load: 0
+[main] 17:30:59,427 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] QAFTestNGListener registered!...
+[main] 17:30:59,429 DEBUG [com.infostretch.automation.testng.pro.QAFMethodInterceptor] QAFTestNGListener registered!...
+[main] 17:30:59,431 DEBUG [com.infostretch.automation.testng.pro.QAFResultListener] QAFTestNGListener registered!...
+[main] 17:30:59,435 DEBUG [com.infostretch.automation.testng.pro.QAFSuiteListener] QAFTestNGListener registered!...
+[main] 17:31:03,835 DEBUG [com.infostretch.automation.testng.pro.QAFSuiteListener] onstart suite: start
+[main] 17:31:04,636 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation: setupSuit
+[main] 17:31:04,641 DEBUG [com.infostretch.automation.core.QAFTestBase] Info: Browser: 
+[main] 17:31:04,651 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: setupSuit - com.infostretch.automation.ui is test:false
+[main] 17:31:04,651 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 17:31:04,652 DEBUG [com.infostretch.automation.testng.pro.QAFResultListener] onstart testContext: start
+[main] 17:31:04,653 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation: setupSuit
+[main] 17:31:04,654 DEBUG [com.infostretch.automation.core.QAFTestBase] Info: Browser: 
+[main] 17:31:04,654 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: setupSuit - com.infostretch.automation.ui is test:false
+[main] 17:31:04,655 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 17:31:04,657 DEBUG [com.infostretch.automation.testng.pro.QAFMethodInterceptor] Method Order interceptor called
+[main] 17:31:04,665 DEBUG [com.infostretch.automation.testng.pro.QAFMethodInterceptor] Method Order interceptor called
+[main] 17:31:04,670 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation: setup
+[main] 17:31:04,671 DEBUG [com.infostretch.automation.core.QAFTestBase] Info: Browser: 
+[main] 17:31:04,671 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: setup - com.infostretch.automation.ui is test:false
+[main] 17:31:04,671 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 17:31:04,675 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation: setupMethod
+[main] 17:31:04,675 DEBUG [com.infostretch.automation.core.QAFTestBase] Info: Browser: 
+[main] 17:31:04,676 INFO  [com.infostretch.automation.core.QAFTestBase] Executing: scenario
+[main] 17:31:04,676 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: setupMethod - com.infostretch.automation.ui is test:false
+[main] 17:31:04,676 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 17:31:04,676 DEBUG [com.infostretch.automation.testng.pro.QAFResultListener] onTestStart: start
+[main] 17:31:04,677 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation:  TC1
+[main] 17:31:04,677 DEBUG [com.infostretch.automation.core.QAFTestBase] Info: Browser: 
+[main] 17:31:04,703 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation:  TC1 - com.infostretch.automation.step.client is test:true
+[main] 17:31:04,704 ERROR [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] com.infostretch.automation.step.StepInvocationException: Teststep END not found
+[main] 17:31:04,704 DEBUG [com.infostretch.automation.core.QAFTestBase] Fail: Teststep END not found
+[main] 17:31:04,708 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 17:31:04,727 DEBUG [com.infostretch.automation.testng.report.ReporterUtil] method:  result: fail groups: [Ljava.lang.String;@1e2efb
+[main] 17:31:04,749 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation: afterMethod
+[main] 17:31:04,749 DEBUG [com.infostretch.automation.core.QAFTestBase] Info: Browser: 
+[main] 17:31:04,750 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: afterMethod - com.infostretch.automation.ui is test:false
+[main] 17:31:04,750 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 17:31:04,751 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation: afterClass
+[main] 17:31:04,751 DEBUG [com.infostretch.automation.core.QAFTestBase] Info: Browser: 
+[main] 17:31:04,752 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: afterClass - com.infostretch.automation.ui is test:false
+[main] 17:31:04,752 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 17:31:04,754 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation: afterTest
+[main] 17:31:04,755 DEBUG [com.infostretch.automation.core.QAFTestBase] Info: Browser: 
+[main] 17:31:04,755 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: afterTest - com.infostretch.automation.ui is test:false
+[main] 17:31:04,755 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 17:31:04,783 DEBUG [com.infostretch.automation.testng.pro.QAFResultListener] onfinish testcntext: start
+[main] 17:31:04,798 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] beforeInvocation: afterSuit
+[main] 17:31:04,798 DEBUG [com.infostretch.automation.core.QAFTestBase] Info: Browser: 
+[main] 17:31:04,821 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: afterSuit - com.infostretch.automation.ui is test:false
+[main] 17:31:04,822 DEBUG [com.infostretch.automation.testng.pro.QAFInvokedMethodListener2] afterInvocation: Done
+[main] 17:31:04,822 DEBUG [com.infostretch.automation.testng.pro.QAFSuiteListener] onFinish: start
+[main] 17:31:04,831 DEBUG [com.infostretch.automation.testng.pro.QAFSuiteListener] onFinish: done

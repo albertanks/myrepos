@@ -1,0 +1,18 @@
+{
+  "seleniumLog": [],
+  "checkPoints": [
+    {
+      "message": "Browser: ",
+      "type": "Info",
+      "screenshot": "",
+      "subCheckPoints": []
+    },
+    {
+      "message": "Teststep END not found",
+      "type": "Fail",
+      "screenshot": "",
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "com.infostretch.automation.step.StepInvocationException: Teststep END not found\r\n\tat com.infostretch.automation.step.StringTestStep.execute(StringTestStep.java:115)\r\n\tat com.infostretch.automation.step.client.Scenario.scenario(Scenario.java:124)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:606)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:714)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:786)\r\n\tat org.testng.TestRunner.run(TestRunner.java:631)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:334)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:240)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1149)\r\n\tat org.testng.TestNG.run(TestNG.java:1057)\r\n\tat org.testng.TestNG.privateMain(TestNG.java:1364)\r\n\tat org.testng.TestNG.main(TestNG.java:1333)\r\n"
+}

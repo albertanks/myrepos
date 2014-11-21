@@ -1,0 +1,19 @@
+{
+  "methods": [
+    {
+      "name": " TC1",
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "groups": [
+        "SMOKE"
+      ],
+      "dependsOn": [],
+      "desc": "QMetry Integration test",
+      "startTime": 1416311227263,
+      "duration": 30,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

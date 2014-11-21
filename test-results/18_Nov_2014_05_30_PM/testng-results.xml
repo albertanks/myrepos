@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="info"><span class="info-label">I </span>Browser: </div><div  class="fail"><span class="fail-label">F </span>Teststep END not found</div></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="QAS Demo" duration-ms="104" started-at="2014-11-18T12:01:04Z" finished-at="2014-11-18T12:01:04Z">
+    <groups>
+      <group name="SMOKE">
+        <method signature="F:\Ankit\Project\Minted\workspace\QmetryTestManagementTool\.\scenarios\QMetryIntegration.bdd. TC1()[pri:1000, instance:com.infostretch.automation.step.client.Scenario@3e8]" name=" TC1" class="com.infostretch.automation.step.client.Scenario"/>
+      </group> <!-- SMOKE -->
+    </groups>
+    <test name="BDD Test" duration-ms="104" started-at="2014-11-18T12:01:04Z" finished-at="2014-11-18T12:01:04Z">
+      <class name="com.infostretch.automation.step.client.Scenario">
+        <test-method status="PASS" signature="setupSuit(java.lang.String, java.lang.String, java.lang.String, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.infostretch.automation.step.client.Scenario@3e8]" name="setupSuit" is-config="true" duration-ms="54" started-at="2014-11-18T17:31:04Z" finished-at="2014-11-18T17:31:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[org.testng.TestRunner@1943319]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuit -->
+        <test-method status="PASS" signature="setupSuit(java.lang.String, java.lang.String, java.lang.String, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.infostretch.automation.step.client.Scenario@3e8]" name="setupSuit" is-config="true" duration-ms="3" started-at="2014-11-18T17:31:04Z" finished-at="2014-11-18T17:31:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[org.testng.TestRunner@1943319]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuit -->
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String, java.lang.String, java.lang.String, org.testng.ITestContext)[pri:0, instance:com.infostretch.automation.step.client.Scenario@3e8]" test-instance-name=" TC1" name="setup" is-config="true" duration-ms="2" started-at="2014-11-18T17:31:04Z" finished-at="2014-11-18T17:31:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[org.testng.TestRunner@1943319]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.infostretch.automation.step.client.Scenario@3e8]" test-instance-name=" TC1" name="setupMethod" is-config="true" duration-ms="3" started-at="2014-11-18T17:31:04Z" finished-at="2014-11-18T17:31:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefoxDriver]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[public void com.infostretch.automation.step.client.Scenario.scenario()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="FAIL" signature=" TC1()[pri:1000, instance:com.infostretch.automation.step.client.Scenario@3e8]" test-instance-name=" TC1" name=" TC1" duration-ms="27" started-at="2014-11-18T17:31:04Z" description="QMetry Integration test" finished-at="2014-11-18T17:31:04Z">
+          <exception class="com.infostretch.automation.step.StepInvocationException">
+            <message>
+              <![CDATA[Teststep END not found]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[com.infostretch.automation.step.StepInvocationException: Teststep END not found
+	at com.infostretch.automation.step.StringTestStep.execute(StringTestStep.java:115)
+	at com.infostretch.automation.step.client.Scenario.scenario(Scenario.java:124)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:786)
+	at org.testng.TestRunner.run(TestRunner.java:631)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.TestNG.privateMain(TestNG.java:1364)
+	at org.testng.TestNG.main(TestNG.java:1333)
+]]>
+            </full-stacktrace>
+          </exception> <!-- com.infostretch.automation.step.StepInvocationException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="info"><span class="info-label">I </span>Browser: </div><div  class="fail"><span class="fail-label">F </span>Teststep END not found</div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!--  TC1 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.infostretch.automation.step.client.Scenario@3e8]" test-instance-name=" TC1" name="afterMethod" is-config="true" duration-ms="1" started-at="2014-11-18T17:31:04Z" finished-at="2014-11-18T17:31:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1943319]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name= TC1 status=FAILURE method=F:\Ankit\Project\Minted\workspace\QmetryTestManagementTool\.\scenarios\QMetryIntegration.bdd. TC1()[pri:1000, instance:com.infostretch.automation.step.client.Scenario@3e8] output=<div style="display:block;margin-left:10px;"><div  class="info"><span class="info-label">I </span>Browser: </div><div  class="fail"><span class="fail-label">F </span>Teststep END not found</div></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.infostretch.automation.step.client.Scenario@3e8]" test-instance-name=" TC1" name="afterClass" is-config="true" duration-ms="1" started-at="2014-11-18T17:31:04Z" finished-at="2014-11-18T17:31:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1943319]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:com.infostretch.automation.step.client.Scenario@3e8]" name="afterTest" is-config="true" duration-ms="1" started-at="2014-11-18T17:31:04Z" finished-at="2014-11-18T17:31:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1943319]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuit(org.testng.ITestContext)[pri:0, instance:com.infostretch.automation.step.client.Scenario@3e8]" name="afterSuit" is-config="true" duration-ms="25" started-at="2014-11-18T17:31:04Z" finished-at="2014-11-18T17:31:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1943319]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- com.infostretch.automation.step.client.Scenario -->
+    </test> <!-- BDD Test -->
+  </suite> <!-- QAS Demo -->
+</testng-results>

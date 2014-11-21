@@ -1,0 +1,7 @@
+17:30:59 loading text file: F:\Ankit\Project\Minted\workspace\QmetryTestManagementTool\.\scenarios\QMetryIntegration.bdd
+17:30:59 total rows: 1
+17:30:59 removing row with lineNo: 0
+17:31:04 
+
+Executing scenario:  TC1 - QMetry Integration test
+17:31:04 Competed scenario:  TC1 with status FAILURE
